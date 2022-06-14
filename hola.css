@@ -1,0 +1,65 @@
+nav{
+    text-align: center;
+    background-color: #;
+         
+}
+
+*{
+    padding: 6px;
+    margin: 7px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+   
+}
+
+u{
+    text-decoration-color: #916BBF;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 7px;
+    
+}
+
+
+
+
+a:visited {
+    color:#916BBF;
+}
+
+
+
+a:hover {
+    background-color: #DFF6FF;
+    border-bottom: 1px solid;
+}
+
+
+
+
+.centrado{
+    text-align: center;
+    
+}
+
+
+img{
+    max-width: 70%;
+    max-height: 70%;
+    text-align: center;
+   }
+
+
+.presentacion{
+    background-color: 
+}
+
+.que_es_un_malware{ 
+
+    background-color: #A267AC;
+
+    
+}
