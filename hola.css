@@ -1,12 +1,11 @@
 nav{
     text-align: center;
-    background-color: #;
-         
 }
 
 *{
-    padding: 6px;
-    margin: 7px;
+    padding: 7px;
+    margin: 20px;
+    border: 15px;
     font-family: 'Nunito', sans-serif;
     font-size: 20px;
    
@@ -47,19 +46,7 @@ a:hover {
 
 
 img{
-    max-width: 70%;
-    max-height: 70%;
+    max-width: 100%;
+    max-height: 100%;
     text-align: center;
    }
-
-
-.presentacion{
-    background-color: 
-}
-
-.que_es_un_malware{ 
-
-    background-color: #A267AC;
-
-    
-}
